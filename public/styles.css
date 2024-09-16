@@ -3,7 +3,7 @@ body {
  background-color: #d6c6a5;
  background-origin: border-box;
  background-repeat: no-repeat;
- 
+ background-size: cover;
   width: 550px;
   margin-left: auto;
   margin-right: auto;
