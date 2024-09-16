@@ -4,7 +4,7 @@ body {
   margin-right: auto;
   color: rgb(0, 0, 0);
   padding: 1em;
-background-image: url("https://static.wikia.nocookie.net/central/images/0/05/Foggy5.jpg/revision/latest?cb=20240913161013" );
+background-image: "./images/background2.png";
 }
 
 h1 {font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif"; font-size: 63px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
