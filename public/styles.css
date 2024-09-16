@@ -1,6 +1,9 @@
 body {
   background-image: url("./images/background2.png");
  background-color: #d6c6a5;
+ background-origin: border-box;
+ background-repeat: no-repeat;
+ 
   width: 550px;
   margin-left: auto;
   margin-right: auto;
